@@ -1,0 +1,84 @@
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\appsettings.json
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\API Pokemon.staticwebassets.endpoints.json
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\API Pokemon.exe
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\API Pokemon.deps.json
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\API Pokemon.runtimeconfig.json
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\API Pokemon.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\API Pokemon.pdb
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.csproj.AssemblyReference.cache
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.AssemblyInfoInputs.cache
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.AssemblyInfo.cs
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.sourcelink.json
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\scopedcss\bundle\API Pokemon.styles.css
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.API Pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.API Pokemon.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.build.API Pokemon.props
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Pokemon.props
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Pokemon.props
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Poke.1A7C7B7A.Up2Date
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\refint\API Pokemon.dll
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.pdb
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\API Pokemon.genruntimeconfig.cache
+C:\Users\study\source\repos\Aula2\API Pokemon\obj\Debug\net8.0\ref\API Pokemon.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\appsettings.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\API Pokemon.staticwebassets.endpoints.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\API Pokemon.exe
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\API Pokemon.deps.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\API Pokemon.runtimeconfig.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\API Pokemon.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\API Pokemon.pdb
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.csproj.AssemblyReference.cache
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.AssemblyInfoInputs.cache
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.AssemblyInfo.cs
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.sourcelink.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\scopedcss\bundle\API Pokemon.styles.css
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.API Pokemon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.API Pokemon.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.build.API Pokemon.props
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Pokemon.props
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Pokemon.props
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Poke.1A7C7B7A.Up2Date
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\refint\API Pokemon.dll
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.pdb
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\API Pokemon.genruntimeconfig.cache
+C:\Users\study\OneDrive\Área de Trabalho\API Pokemon\obj\Debug\net8.0\ref\API Pokemon.dll
